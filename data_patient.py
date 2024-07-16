@@ -1,0 +1,28 @@
+# Patient data
+data_dict = [
+    {'person_id': 1, 'name': 'John Doe', 'age': 34, 'type_of_drug': 'Alcohol', 'rehabilitation_status': 'Admitted'},
+    {'person_id': 2, 'name': 'Jane Smith', 'age': 28, 'type_of_drug': 'Opioids', 'rehabilitation_status': 'Completed'},
+    {'person_id': 3, 'name': 'Emily Davis', 'age': 45, 'type_of_drug': 'Cocaine', 'rehabilitation_status': 'Transferred'},
+    {'person_id': 4, 'name': 'Michael Brown', 'age': 30, 'type_of_drug': 'Meth', 'rehabilitation_status': 'Admitted'},
+    {'person_id': 5, 'name': 'Sarah Wilson', 'age': 38, 'type_of_drug': 'Heroin', 'rehabilitation_status': 'Left Against Medical Advice'},
+    {'person_id': 6, 'name': 'David Lee', 'age': 25, 'type_of_drug': 'Marijuana', 'rehabilitation_status': 'Admitted'},
+    {'person_id': 7, 'name': 'Laura Johnson', 'age': 52, 'type_of_drug': 'Alcohol', 'rehabilitation_status': 'Completed'},
+    {'person_id': 8, 'name': 'Robert Martinez', 'age': 41, 'type_of_drug': 'Opioids', 'rehabilitation_status': 'Admitted'},
+    {'person_id': 9, 'name': 'Mary Anderson', 'age': 29, 'type_of_drug': 'Meth', 'rehabilitation_status': 'Transferred'},
+    {'person_id': 10, 'name': 'James Thompson', 'age': 33, 'type_of_drug': 'Cocaine', 'rehabilitation_status': 'Completed'},
+    {'person_id': 11, 'name': 'Patricia White', 'age': 47, 'type_of_drug': 'Heroin', 'rehabilitation_status': 'Left Against Medical Advice'},
+    {'person_id': 12, 'name': 'Linda Harris', 'age': 36, 'type_of_drug': 'Marijuana', 'rehabilitation_status': 'Admitted'},
+    {'person_id': 13, 'name': 'Thomas Clark', 'age': 50, 'type_of_drug': 'Alcohol', 'rehabilitation_status': 'Completed'},
+    {'person_id': 14, 'name': 'Barbara Lewis', 'age': 32, 'type_of_drug': 'Opioids', 'rehabilitation_status': 'Transferred'},
+    {'person_id': 15, 'name': 'Daniel Walker', 'age': 40, 'type_of_drug': 'Meth', 'rehabilitation_status': 'Admitted'},
+    {'person_id': 16, 'name': 'Susan Hall', 'age': 27, 'type_of_drug': 'Cocaine', 'rehabilitation_status': 'Completed'},
+    {'person_id': 17, 'name': 'Christopher Young', 'age': 55, 'type_of_drug': 'Heroin', 'rehabilitation_status': 'Left Against Medical Advice'},
+    {'person_id': 18, 'name': 'Karen King', 'age': 39, 'type_of_drug': 'Marijuana', 'rehabilitation_status': 'Admitted'},
+    {'person_id': 19, 'name': 'Steven Scott', 'age': 31, 'type_of_drug': 'Alcohol', 'rehabilitation_status': 'Transferred'},
+    {'person_id': 20, 'name': 'Betty Green', 'age': 43, 'type_of_drug': 'Opioids', 'rehabilitation_status': 'Completed'},
+    {'person_id': 21, 'name': 'Joseph Adams', 'age': 37, 'type_of_drug': 'Meth', 'rehabilitation_status': 'Admitted'},
+    {'person_id': 22, 'name': 'Nancy Baker', 'age': 26, 'type_of_drug': 'Cocaine', 'rehabilitation_status': 'Left Against Medical Advice'},
+    {'person_id': 23, 'name': 'George Perez', 'age': 48, 'type_of_drug': 'Heroin', 'rehabilitation_status': 'Completed'},
+    {'person_id': 24, 'name': 'Karen Roberts', 'age': 35, 'type_of_drug': 'Marijuana', 'rehabilitation_status': 'Admitted'},
+    {'person_id': 25, 'name': 'Michael Turner', 'age': 44, 'type_of_drug': 'Alcohol', 'rehabilitation_status': 'Completed'}
+]
